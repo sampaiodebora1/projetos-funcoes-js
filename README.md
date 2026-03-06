@@ -25,14 +25,5 @@ node index.js
 ## Objective
 
 The goal of this project is to understand how functions work in JavaScript and practice different ways of defining and executing them.
-Como executar:
-
-No terminal, execute:
-
-node index.js
-
-Objetivo:
-
-Demonstrar domínio dos conceitos fundamentais de funções em JavaScript por meio da implementação de funções regulares, anônimas e arrow functions em um projeto executado com Node.js.
 
 
